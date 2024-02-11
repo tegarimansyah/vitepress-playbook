@@ -5,7 +5,7 @@
   },
   "scripts": {
     "docs:dev": "vitepress dev",
-    "docs:build": "vitepress build",
+    "docs:build": "vitepress build && echo \"You may expect to add umami env var\"",
     "docs:preview": "vitepress preview"
   }
 }

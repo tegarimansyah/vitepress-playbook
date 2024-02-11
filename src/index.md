@@ -8,9 +8,9 @@ hero:
   name: "Tegar Imansyah"
   text: "Software, Cloud, DevOps Enthusiast"
   tagline: Brainstorm idea, write code, give tech talk 
-  image:
-    src: images/demo.png
-    alt: Screenshot of working code
+  # image:
+  #   src: images/demo.png
+  #   alt: Screenshot of working code
     # bongkar.cloud, urusan.id, konsisten.id
 
   actions:
