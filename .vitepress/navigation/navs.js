@@ -1,11 +1,8 @@
 const navs = [
     { text: 'Home', link: '/' },
-    { text: 'Experiences', items: [
-        { text: 'Work', link: '/experiences/works' },
-        { text: 'Talk', link: '/experiences/talks' }
-        ] 
-    },
+    { text: 'Hire Me', link: '/hire-me' },
     { text: 'Projects', link: '/projects' },
+    { text: 'Talks', link: '/talks' },
     { text: 'Contact', link: '/contact' },
 ]
 
