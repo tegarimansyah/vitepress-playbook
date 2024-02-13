@@ -43,19 +43,19 @@ features:
     target: _blank
 
   - title: Whatsapp Backup
-    details: [Coming Soon] Convenience chatbot for backup file, image, and chat to google drive. Simply forward it to us (or your own number).
+    details: "[Coming Soon] Convenience chatbot for backup file, image, and chat to google drive. Simply forward it to us (or your own number)."
 
   - title: Konsisten
-    details: [Coming Soon] Life Management System. Define your goal and track your daily whether it's align with it or not. 
+    details: "[Coming Soon] Life Management System. Define your goal and track your daily whether it's align with it or not. "
 
   - title: Backstage Internal Developer Platform
-    details: [Coming Soon] Using spotify backstage, I create internal developer platform for my own github repository.
+    details: "[Coming Soon] Using spotify backstage, I create internal developer platform for my own github repository."
 
   - title: Udemy DevOps Course
-    details: [Coming Soon]
+    details: "[Coming Soon]"
 
   - title: Udemy AWS Cloud Practicioner Course
-    details: [Coming Soon] 
+    details: "[Coming Soon]" 
 
   - title: Other Projects
     details: All of my projects will be listed in this link. If you interested built something with me, then I more then welcome to discuss about it.
