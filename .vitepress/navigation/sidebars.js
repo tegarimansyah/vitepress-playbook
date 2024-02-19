@@ -1,9 +1,47 @@
 const sidebars = [
     {
-        text: 'Examples',
+        text: 'Explore More About Me',
         items: [
-        { text: 'Markdown Examples', link: '/markdown-examples' },
-        { text: 'Runtime API Examples', link: '/api-examples' }
+            { 
+                text: 'About Me', 
+                link: '/hire',
+                items: [
+                    {
+                        text: 'Hire Me',
+                        link: '/hire#hi-there-👋'
+                    },
+                    {
+                        text: 'About Me',
+                        link: '/hire#more-about-me'
+                    },
+                    {
+                        text: 'Working Experiences',
+                        link: '/hire#working-experiences'
+                    }
+                ]
+            },
+            { 
+                text: 'Publications', 
+                link: '/publications',
+                items: [
+                    {
+                        text: 'Training',
+                        link: '/publications#trainings'
+                    },
+                    {
+                        text: 'Writting',
+                        link: '/publications#writting'
+                    },
+                    {
+                        text: 'Courses',
+                        link: '/publications#courses'
+                    },
+                    {
+                        text: 'Tech Talks',
+                        link: '/publications#tech-talks'
+                    }
+                ]
+            },
         ]
     }
 ]

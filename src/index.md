@@ -39,15 +39,15 @@ features:
     rel: external
     target: _blank
 
-  - title: WA Backup
-    details: "[Coming Soon] Convenience whatsapp chatbot for backup file, image, and chat to google drive. Simply forward it to us (or your own number)"
+  - title: "WA Backup [Open Waitlist]"
+    details: "Convenience whatsapp chatbot for backup file, image, and chat to google drive. Simply forward it to us (or your own number)"
     link: https://wabackup.urusan.id/
     linkText: Visit WA Backup
     rel: external
     target: _blank
 
-  - title: Konsisten
-    details: "[Coming Soon] Life Management System. Define your goal and track your daily activities whether it's align with it or not"
+  - title: "Konsisten [Open Waitlist]"
+    details: "Life Management System. Define your goal and track your daily activities whether it's align with it or not"
     link: https://konsisten.id/
     linkText: Visit Konsisten.id
     rel: external
