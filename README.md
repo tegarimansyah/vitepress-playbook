@@ -140,6 +140,12 @@ export default defineConfig({
 })
 ```
 
+### Vue Components
+
+The default theme has many components that [shown here](https://github.com/vuejs/vitepress/tree/main/src/client/theme-default/components).
+
+**TBA**
+
 ### Dynamic Content
 
 **TBA**

@@ -23,6 +23,9 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: navs,
     sidebar: sidebars,
-    socialLinks: socials
+    socialLinks: socials,
+    // search: {
+    //   provider: 'local'
+    // }
   }
 })
