@@ -75,8 +75,8 @@ features:
     target: _blank
 
   - title: Trainings, Courses and Tech Talks
-    details: "List of In-house Training, On-demand Course hosted in Udemy, Online Class via Zoom and Community Tech Talks. Talk about DevOps, Cloud Services, Software Development and Softskills"
-    link: /training-courses-talks
+    details: "List of In-house Training, On-demand Course hosted in Udemy, Online Class via Zoom and Community Tech Talks as a Instructor / Advisor / Speaker."
+    link: /publication
     linkText: "See Listing or Invite Me"
 
   - title: Build With Me
