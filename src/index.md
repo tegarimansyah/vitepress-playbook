@@ -46,19 +46,19 @@ features:
     rel: external
     target: _blank
 
-  - title: "Konsisten [Open Waitlist]"
-    details: "Life Management System. Define your goal and track your daily activities whether it's align with it or not"
-    link: https://konsisten.id/
-    linkText: Visit Konsisten.id
-    rel: external
-    target: _blank
+  # - title: "Konsisten [Open Waitlist]"
+  #   details: "Life Management System. Define your goal and track your daily activities whether it's align with it or not"
+  #   link: https://konsisten.id/
+  #   linkText: Visit Konsisten.id
+  #   rel: external
+  #   target: _blank
 
-  - title: Internal Developer Platform
-    details: "Using spotify backstage, I create internal developer platform for my own github repository"
-    link: https://idp.tegar.my.id/
-    linkText: Visit my IDP
-    rel: external
-    target: _blank
+  # - title: Internal Developer Platform
+  #   details: "Using spotify backstage, I create internal developer platform for my own github repository"
+  #   link: https://idp.tegar.my.id/
+  #   linkText: Visit my IDP
+  #   rel: external
+  #   target: _blank
 
   - title: Playbook Collection
     details: "Step-by-step guidelines for using a technology such as Vitepress, Ghost, Pocketbase, Docker Swarm and Knative (Kubernetes)"
