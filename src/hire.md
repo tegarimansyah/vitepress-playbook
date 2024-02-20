@@ -19,18 +19,12 @@ Thank you for your interest to built with me. I love to hear more about it. I al
 
 ## More About Me
 
-> [!TIP]
-> This still working in progress
-
 Seasoned technology enthusiast with 7+ years of hands-on experience in software development, DevOps culture building, and strategic problem-solving. Proven track record of driving innovation, product discovery, and creating proof-of-concept in diverse engineering domains. Have 4+ years experience working remotely and asynchronously.
 
-Adept at leading discussions, providing mentorship, and delivering impactful talks at both local meet-ups and international conferences. Skilled in leveraging a robust skill set, including proficiency in programming languages (Python, Node.js), Bash, Kubernetes, IaC, CI/CD, and system optimization.
+Adept at leading discussions, providing mentorship, and delivering impactful talks at both local meet-ups and international conferences. Skilled in leveraging a robust skill set, including proficiency in programming languages (Python, Node.js, Go), Bash, Kubernetes, IaC, CI/CD, and system optimization.
 
 Spearheaded approximately 20 teams with multiple projects to adopt DevOps practices, implemented better containerization, better observability, and enhanced CI/CD pipelines. Excels in bridging the gap between high-level business problems and deep technical product development.
 
 Open to engaging conversations on technology and eager to contribute to impactful projects, especially developer-focused products.
 
-## Working Experiences
-
-> [!TIP]
-> This still working in progress
+Check [my linkedin](https://linkedin.com/in/tegarimansyah) for my working history.
