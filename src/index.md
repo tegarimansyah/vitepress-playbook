@@ -76,7 +76,7 @@ features:
 
   - title: Trainings, Courses and Tech Talks
     details: "List of In-house Training, On-demand Course hosted in Udemy, Online Class via Zoom and Community Tech Talks as a Instructor / Advisor / Speaker."
-    link: /publication
+    link: /publications
     linkText: "See Listing or Invite Me"
 
   - title: Build With Me
