@@ -14,10 +14,10 @@ const sidebars = [
                         text: 'About Me',
                         link: '/hire#more-about-me'
                     },
-                    {
-                        text: 'Working Experiences',
-                        link: '/hire#working-experiences'
-                    }
+                    // {
+                    //     text: 'Working Experiences',
+                    //     link: '/hire#working-experiences'
+                    // }
                 ]
             },
             { 
@@ -34,11 +34,11 @@ const sidebars = [
                     },
                     {
                         text: 'Courses',
-                        link: '/publications#courses'
+                        link: '/publications#online-courses'
                     },
                     {
                         text: 'Tech Talks',
-                        link: '/publications#tech-talks'
+                        link: '/publications#tech-talks-and-community'
                     }
                 ]
             },
