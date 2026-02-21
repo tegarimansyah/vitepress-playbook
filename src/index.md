@@ -52,10 +52,19 @@ features:
 
   - title: "Urusan: AI webmaster"
     details: Break free from constant fear of breaking website in every prompt. Import your vibecoding from Lovable or Bolt and manage the content directly on your team's WhatsApp Group.
-    link: https://wabackup.urusan.id/
-    linkText: Visit WA Backup
-    rel: external
-    target: _blank
+    link: #
+    linkText: Coming soon
+
+  #   - title: "Bongkar Cloud: Research Platform for Busy CTO and Engineers"
+  # details: We review and compare cloud services, open source and DevOps tools functionality, price and limitation for real use case. Save time and build with confidence.
+  # # icon:
+  # #   dark: /dark-bongkar-cloud-icon.svg
+  # #   light: /light-bongkar-cloud-icon.svg
+  # link: https://bongkar.cloud
+  # linkText: Visit Bongkar Cloud
+  # rel: external
+  # target: _blank
+
 
   # - title: "Konsisten [Open Waitlist]"
   #   details: "Life Management System. Define your goal and track your daily activities whether it's align with it or not"
