@@ -22,25 +22,36 @@ hero:
       link: /talks
 
 features:
-  - title: "Bongkar Cloud: Research Platform for Busy CTO and Engineers"
-    details: We review and compare cloud services, open source and DevOps tools functionality, price and limitation for real use case. Save time and build with confidence.
+
+  - title: "Latest Role: Principle Technical Architect @ portier Global"
+    details: I define the high-level blueprint and guardrails that keep our platform scalable and coherent, ensuring a robust foundation for both human engineers and AI Agents to build on.
     # icon:
     #   dark: /dark-bongkar-cloud-icon.svg
     #   light: /light-bongkar-cloud-icon.svg
-    link: https://bongkar.cloud
-    linkText: Visit Bongkar Cloud
+    link: https://portierglobal.com
+    linkText: Visit portier Global
+    rel: external
+    target: _blank
+  
+  - title: "Peladen: Managed service for founders and developers, not ops"
+    details: Peladen gives you the power of RDS with the simplicity of a localhost. Fully managed, hosted on your own VM.
+    # icon:
+    #   dark: /dark-bongkar-cloud-icon.svg
+    #   light: /light-bongkar-cloud-icon.svg
+    link: https://usepeladen.com/
+    linkText: Visit Peladen
     rel: external
     target: _blank
 
-  - title: Github Declutter
-    details: Declutter your unused repo, so you can confidently share your GitHub profile
-    link: https://github-declutter.tegar.my.id/
-    linkText: Visit Github Declutter
+  - title: EthiqsHub: Building Trustworthy Society, Together
+    details: A platform to transform promises, debts, and family assets into a verifiable, Sharia-compliant digital record.
+    link: http://ethiqshub.com/
+    linkText: Visit EthiqsHub
     rel: external
     target: _blank
 
-  - title: "WA Backup [Open Waitlist]"
-    details: "Convenience whatsapp chatbot for backup file, image, and chat to google drive. Simply forward it to us (or your own number)"
+  - title: "Urusan: AI webmaster"
+    details: Break free from constant fear of breaking website in every prompt. Import your vibecoding from Lovable or Bolt and manage the content directly on your team's WhatsApp Group.
     link: https://wabackup.urusan.id/
     linkText: Visit WA Backup
     rel: external
