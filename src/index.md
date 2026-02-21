@@ -43,7 +43,7 @@ features:
     rel: external
     target: _blank
 
-  - title: EthiqsHub: Building Trustworthy Society, Together
+  - title: "EthiqsHub: Building Trustworthy Society, Together"
     details: A platform to transform promises, debts, and family assets into a verifiable, Sharia-compliant digital record.
     link: http://ethiqshub.com/
     linkText: Visit EthiqsHub
